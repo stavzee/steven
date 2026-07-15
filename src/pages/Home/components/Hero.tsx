@@ -38,7 +38,8 @@ export function Hero() {
               </svg>
 
               <h1 className="text-4xl font-black leading-tight text-white lg:text-5xl xl:text-6xl">
-                Sound that breathes. <span className="text-brand-500">Stories that move.</span>
+                You make the music,
+                I'll make it <span className="text-brand-500"> sound good.</span>
               </h1>
             </div>
 
